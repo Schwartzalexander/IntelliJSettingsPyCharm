@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\beratungsfeedback\beratungsfeedback-application\src\test\java\de\hypoport\beratungsfeedback\specs\schnittstellen\SstBewertungsAnfrageTest.java [beratungsfeedback-application]'" />
-    <option name="defaultScopeName" value="File '…\beratungsfeedback\beratungsfeedback-application\src\test\java\de\hypoport\beratungsfeedback\specs\schnittstellen\SstBewertungsAnfrageTest.java [beratungsfeedback-application]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\beratungsfeedback\beratungsfeedback-application\src\test\java\de\hypoport\beratungsfeedback\specs\schnittstellen\SstBewertungsAnfrageTest.java [beratungsfeedback-application]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*Dao.java</mask>
     <mask>*.sh</mask>
     <mask>I*Dao.kt</mask>
