@@ -1,5 +1,15 @@
 <keymap version="1" name="XWin copy" parent="Default for XWin">
   <action id="ChangesView.ShelveSilently" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl 7" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl 7" />
+  </action>
   <action id="DatabaseView.OpenFamilyAction" />
   <action id="Debugger.PopFrame">
     <keyboard-shortcut first-keystroke="shift f11" />
@@ -7,9 +17,9 @@
   <action id="EditSource" />
   <action id="ExternalSystem.OpenConfig" />
   <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="GotoBookmark7" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl e" />
@@ -27,6 +37,10 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="RecentFiles" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="RemoteHostView.EditSource" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
@@ -51,6 +65,7 @@
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="ToggleBookmark" />
+  <action id="ToggleBookmark7" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
 </keymap>
