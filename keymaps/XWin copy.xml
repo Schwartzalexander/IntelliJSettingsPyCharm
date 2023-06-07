@@ -15,6 +15,7 @@
     <keyboard-shortcut first-keystroke="shift f11" />
   </action>
   <action id="EditSource" />
+  <action id="EditorDeleteLine" />
   <action id="ExternalSystem.OpenConfig" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl h" />
