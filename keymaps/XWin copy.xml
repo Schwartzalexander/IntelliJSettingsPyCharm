@@ -4,6 +4,7 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="ChangesView.ShelveSilently" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
@@ -25,6 +26,10 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="ExternalSystem.OpenConfig" />
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
@@ -32,6 +37,22 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="IntroduceConstant">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="IntroduceParameter">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+    <keyboard-shortcut first-keystroke="shift alt v" />
   </action>
   <action id="Jdbc.OpenEditor.Data" />
   <action id="MethodHierarchy" />
@@ -45,6 +66,7 @@
     <mouse-shortcut keystroke="shift control alt button1" />
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="RecentChanges" />
   <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
@@ -77,4 +99,6 @@
   <action id="ToggleBookmark7" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="hg4idea.QPushAction" />
 </keymap>
