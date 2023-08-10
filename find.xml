@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*RestController.java" />
     <mask>*Dao.java</mask>
     <mask>*.sh</mask>
     <mask>I*Dao.kt</mask>
@@ -15,5 +16,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
+    <mask>*RestController.java</mask>
   </component>
 </application>
