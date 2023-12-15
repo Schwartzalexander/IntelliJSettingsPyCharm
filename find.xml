@@ -3,17 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Dao.java</mask>
-    <mask>*.sh</mask>
-    <mask>I*Dao.kt</mask>
-    <mask>*.kt</mask>
-    <mask>pom.xml</mask>
-    <mask>*.yml</mask>
     <mask>*.css</mask>
+    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.java</mask>
   </component>
 </application>
