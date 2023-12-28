@@ -6,7 +6,9 @@
     <option name="MAX_LOOKUP_WIDTH2" value="971" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SEPARATE_MAIN_MENU" value="true" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />
     <option name="SORT_TABS_ALPHABETICALLY" value="true" />
+    <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>
